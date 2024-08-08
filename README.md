@@ -28,10 +28,6 @@
 진지한 고민을 할때도, 그냥 심심할 때에도! 가볍게 사용하기 좋겠죠?
 
 
-
-### 🚀 **[Pick me up 둘러보기](http://pickmeup-client.s3-website.ap-northeast-2.amazonaws.com/)**
-
-
 ## 🔨 Stack
 <img width="950" alt="stack" src="https://images.velog.io/images/devjade/post/3bb88f88-56eb-41af-9427-22ffec05b041/image.png">
 
