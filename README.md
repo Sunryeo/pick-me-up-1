@@ -51,9 +51,6 @@
 <img width="280" alt="" src="https://images.velog.io/images/devjade/post/b90fd6be-fe9a-4899-b4fc-56c15f52ef59/pickmeup_2.gif">
 
 
-더 자세한 기능은 직접 서비스에 접속하셔서 생생하게 확인해보세요! 
-### 🚀 **[Pick me up 둘러보기](http://pickmeup-client.s3-website.ap-northeast-2.amazonaws.com/)**
-
 ## 👨‍👧‍👧Team Pickme
 | 이름(깃헙링크) | Position & Role|
 | ------- | ----- |
